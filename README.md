@@ -1,2 +1,1 @@
 # javarush-projects
-# javarush-projects
