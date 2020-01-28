@@ -7,6 +7,7 @@ An application that allows to perform the following actions with archives:
 - delete directories / files from the archive
 - unpack archive
 - view archive contents
+
 **Command pattern is used**
 
 ### socket-chat
