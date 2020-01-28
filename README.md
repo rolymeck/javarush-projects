@@ -1,6 +1,6 @@
 # javarush-projects
 
-### archiver
+## archiver
 An application that allows to perform the following actions with archives:
 - create archives from directories / files
 - add directories / files to the archive
@@ -10,22 +10,22 @@ An application that allows to perform the following actions with archives:
 
 **Command pattern is used**
 
-### socket-chat
+## socket-chat
 Simple chat application, that use Socket API for client-server connections
 
 **Multithreading is used**
 
-### link-shortener
+## link-shortener
 An application that shorten URL's
 
 **Different storage methods are used**
 
-### restaurant
+## restaurant
 An application that simulates the processing and execution of orders in a restaurant
 
 **Multithreading and thread safe collections are used**
 
-### cash-machine
+## cash-machine
 An application that simulates the work of ATM
 
 **Class ResourceBundle and command pattern are used**
